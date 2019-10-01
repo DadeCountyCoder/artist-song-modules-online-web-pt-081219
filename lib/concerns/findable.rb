@@ -5,4 +5,3 @@ module Findable
     end    
   end
 end
-© 2019 GitHub, Inc.
